@@ -1,0 +1,62 @@
+body {
+	margin: 0px;
+	background-color: #3CBDCF;
+	padding: 0px;
+	background-image: url(../images/web_bg.gif);
+}
+.ul-link a {
+	float:left;
+	font-size:13pt;
+	display:block;
+	list-style-type: none;
+	line-height:44px;
+	font-weight: bold;
+}
+.ul-link a {
+	text-decoration:none;
+	font:bold 13pt Tahoma, Verdana, Helvetica, sans-serif;
+	color: #663333;
+	padding:5px 14px 15px 16px;
+	background: url(../images/tab_on.gif) top no-repeat;
+}
+.ul-link a:hover {
+text-decoration:none;
+	background: url(../images/tab.gif) top no-repeat;
+	padding:5px 14px 15px 16px;
+}
+.ul-link a.selected {
+text-decoration:none;
+	background: url(../images/tab.gif) top no-repeat;
+	padding:5px 14px 15px 16px;
+}
+
+.tr-text {
+	font: 18pt/130% Tahoma, Verdana, Helvetica, sans-serif;
+	color: #663333;
+	padding-top: 105px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 70px;
+	text-align: left;
+	vertical-align: top;
+}
+.txt-wht {
+	font: bold 13px/175% Tahoma, Verdana, Helvetica, sans-serif;
+	color: #ffffff;
+}
+.txt-bro {
+	font: bold 13px/175% Tahoma, Verdana, Helvetica, sans-serif;
+	color: #660033;
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	padding-top: 0px;
+}
+.txt-yellow {
+	font: bold 14pt Tahoma, Verdana, Helvetica, sans-serif;
+	color: #FFFF99;
+	background-repeat: no-repeat;
+}
+.txt-wht2 {
+	font: 13px Tahoma, Verdana, Helvetica, sans-serif;
+	color: #ffffff;
+}
